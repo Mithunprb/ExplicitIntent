@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="clickme">GO!</string>
+    <string name="Go">Go to new activity</string>
+    <string name="back">Go back</string>
+    <string name="explicit">This is new activty</string>
+</resources>
